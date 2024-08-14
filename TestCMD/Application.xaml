@@ -1,0 +1,13 @@
+﻿<Application x:Class="Application"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TestCMD"  
+             >
+    <!-- Startup="Application_Startup" 
+    ... this could be used to call an independent sub but starts twice, if Application_Startup already is defined to handle Me.Startup -->
+    <!-- StartupUri="MainWindow.xaml" -->
+
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

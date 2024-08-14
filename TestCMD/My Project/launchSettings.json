@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "TestCMD": {
+      "commandName": "Project"
+    },
+    "TestCMF -info": {
+      "commandName": "Project",
+      "commandLineArgs": "-info \"Text from commandline\""
+    },
+    "TestCMF -cmd": {
+      "commandName": "Project",
+      "commandLineArgs": "-cmd"
+    }
+  }
+}
